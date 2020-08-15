@@ -1,4 +1,4 @@
-# MayaBatchAnimationTool
+# Maya Batch Animation Tool
 UI tool for Maya to apply and save animations to a given character
 ![alt text](./BatchAnimationsUI.png?raw=true "Batch Animations UI")
 
